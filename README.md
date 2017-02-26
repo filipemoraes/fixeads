@@ -17,6 +17,6 @@ username = 'root'<br/>
 passwd = 'root'<br/>
 host = localhost<br/>
 debug = true<br/>
-
 <br/>
+O parâmetro "db" indica qual a base de dados que será usada. Para o exercício foi criado apenas um adaptador, sendo esse para MySQL.<br/>
 O parâmetro "debug" indica se as mensagens de erro devem ser exibidas em tela.
